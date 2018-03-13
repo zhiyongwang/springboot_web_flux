@@ -1,4 +1,4 @@
-# WebFlux 开发反应式 Web 应用
+# WebFlux 开发响应式 Web 应用
 
 标签 ： webflux
 
